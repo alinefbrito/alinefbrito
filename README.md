@@ -19,6 +19,7 @@
 	 -  Formatação de arquivos Markdowm (README) 
 		 - [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 	   	- [Complete list of github markdown emoji markup](https://gist.github.com/fcrozetta/b922534f4d41a3074f77ba4660bc714b)
+     		- [StackEdit – In-browser Markdown editor](https://stackedit.io/) 
 	 -  Git com gatinhos  		
 		 - [GIT PURR! Git Commands Explained with Cats! – GirlieMac! Blog](https://girliemac.com/blog/2017/12/26/git-purr/)
 	 - Outros: 		 
@@ -32,6 +33,8 @@
 		- [Professor Cidade - Entendendo e Criando BRANCHS no git - YouTube](https://www.youtube.com/watch?v=F1cBfZQUWjA)
 		- [Professor Cidade - Entendendo e Criando uma ORGANIZAÇÃO no GITHUB - YouTube](https://www.youtube.com/watch?v=giI2XiBn4GY)
 		- [Git e Github para iniciantes - YouTube](https://www.youtube.com/watch?v=UMhskLXJuq4)
+ 	 -  Acesso Acdêmico
+   		- [Students - GitHub Education](https://github.com/education/students)	
  - **Status HTTP** 		
 	-  Cachorros:
 		-  https://httpstatusdogs.com/ 
