@@ -18,7 +18,7 @@
 	 - Documentação
 		 - [GitHub Docs](https://docs.github.com/pt)
 	 - Gerador de Readme de profile para o GitHub
-		 - [GitHub Profile Readme Generator](rahuldkjain.github.io)
+		 - [GitHub Profile Readme Generator ](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 	 -  Formatação de arquivos Markdowm (README) 
 		- [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 	   	- [Complete list of github markdown emoji markup](https://gist.github.com/fcrozetta/b922534f4d41a3074f77ba4660bc714b)
