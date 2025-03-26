@@ -10,6 +10,8 @@
 
 
 
+
+
 ## Links Recomendados
 
  - **GitHub**
@@ -20,6 +22,7 @@
 	 -  Formatação de arquivos Markdowm (README) 
 		- [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 	   	- [Complete list of github markdown emoji markup](https://gist.github.com/fcrozetta/b922534f4d41a3074f77ba4660bc714b)
+	   	- [Markdown Editor | Online Markdown Editor (Real Time)](https://markdowneditor.net/markdown-editor/)
      	- [StackEdit – In-browser Markdown editor](https://stackedit.io/) 
 	 -  Git com gatinhos  		
 		 - [GIT PURR! Git Commands Explained with Cats! – GirlieMac! Blog](https://girliemac.com/blog/2017/12/26/git-purr/)
@@ -65,6 +68,10 @@
 	- [Service Name and Transport Protocol Port Number Registry (iana.org)](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)		
  -  **Manual de Trabalho de Conclusão de Curso (TCC) nas ETECs**
 	- [Manual de Trabalho de Conclusão de Curso (TCC) nas ETECs – CGD (cps.sp.gov.br)](https://cgd.cps.sp.gov.br/cgddocumentos/manual-de-trabalho-de-conclusao-de-curso-tcc-nas-etecs/)
+- **Desenvolvimento Web**
+	- Boas Práticas e recomendações de Design
+		- [Modern Web Design: Principles, Trends and Best Practices](https://www.webnode.com/blog/what-is-good-web-design/)
+		- [20 web design principles to follow](https://www.canva.com/learn/20-web-design-principles-follow/)
  - **Desenvolvimento Mobile** 	
 	 - Android Studio/Java
 		 - [Download Android Studio & App Tools - Android Developers](https://developer.android.com/studio)
