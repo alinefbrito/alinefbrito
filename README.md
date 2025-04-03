@@ -94,7 +94,7 @@
  - **Jogos Digitais** 	
 	- Assets
 		- [Poly Haven](https://polyhaven.com/)
-		- 
+		- [Sketchfab](https://sketchfab.com/)
 	- Legislação
 		- [manual-da-nova-classificacao-indicativa.pdf (www.gov.br)](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1/manual-da-nova-classificacao-indicativa.pdf)
 		- [Marco Legal dos Games](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14852.htm)
@@ -118,5 +118,5 @@
 		- [ Template GDD em português, estruturado em Markdown.](https://github.com/alinefbrito/gdd-template)
 		- [#DKCrevealed – Buscar / X](https://x.com/hashtag/DKCrevealed)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc0NDg3NjBdfQ==
+eyJoaXN0b3J5IjpbMTEzNjQ5OTgyMF19
 -->
