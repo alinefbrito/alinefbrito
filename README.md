@@ -113,3 +113,6 @@
 			- [Make Pixel Art - The Original FREE Online Pixel Art Drawing App!](https://www.makepixelart.com/)
 		- Pintura Digital
 			- [Manual do Krita 5.2](https://docs.krita.org/pt_PT/)
+	- Game Design Document
+		- [ Template GDD em português, estruturado em Markdown.](https://github.com/alinefbrito/gdd-template)
+		- [#DKCrevealed – Buscar / X](https://x.com/hashtag/DKCrevealed)
